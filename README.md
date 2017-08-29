@@ -1,16 +1,17 @@
 # it2810
-IT2810 - Webutvikling @NTNU
+Assignments for it2810 - Web Development @NTNU
 
 
-## Prosjekt 1
+
+..* Project 1
 </br>
-Grunnleggende HTML/CSS/Javascript
+Basic HTML/CSS/Javascript. No frameworks allowed. 
 
-## Prosjekt 2
-</br>
-
-## Prosjekt 2
+..* Project 2
 </br>
 
-## Prosjekt 2
+..* Project 3
+</br>
+
+..* Project 4
 </br>
